@@ -55,6 +55,6 @@ Inspired by [Andrej Karpathy's X post](https://x.com/karpathy/status/20796108381
 
 The skill can still misunderstand the user. Check important constraints and conclusions. External factual accuracy depends on available sources and verification tools. The package passed structural validation; it has not undergone broad user testing.
 
-## Publishing
+## License and updates
 
-This directory can be uploaded as a GitHub repository. It includes no personal paths, account credentials, or dependency on a particular voice product. An open-source license has not been selected; add one according to your publishing intent.
+This project is licensed under the [MIT License](LICENSE). See the [changelog](CHANGELOG.md) for updates.
