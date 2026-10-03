@@ -57,4 +57,4 @@ The skill can still misunderstand the user. Check important constraints and conc
 
 ## License and updates
 
-This project is licensed under the [MIT License](LICENSE). See the [changelog](CHANGELOG.md) for updates.
+This project is licensed under the [MIT License](LICENSE). Maintainer conversation history and project context are kept in a local Codex project and are not included in this public repository. See the [changelog](CHANGELOG.md) for public updates.

@@ -76,4 +76,4 @@ $ramble-to-clarity
 
 ## 许可证与更新
 
-本项目采用 [MIT 许可证](LICENSE)。版本变化见 [更新记录](CHANGELOG.md)。
+本项目采用 [MIT 许可证](LICENSE)。维护者的对话背景和项目上下文保存在本地 Codex 项目中，不包含在此公开仓库。公开版本变化见 [更新记录](CHANGELOG.md)。
